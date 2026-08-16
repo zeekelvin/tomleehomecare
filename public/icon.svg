@@ -1,0 +1,13 @@
+<svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" rx="20" fill="#127485" />
+  <!-- Lime Green Vitality Head Orb -->
+  <circle cx="36" cy="22" r="9" fill="#7CB342" />
+  <!-- Horizontal Cross Left Bar -->
+  <path d="M16 50 H32 V62 H16 Z" fill="#FFFFFF" rx="2" />
+  <!-- Vertical Cross Bottom Bar -->
+  <path d="M26 62 H38 V80 H26 Z" fill="#FFFFFF" rx="2" />
+  <!-- Main Fluid Care Hand Silhouette -->
+  <path d="M26 50 C26 38 34 30 42 24 C40 30 42 37 37 44 C42 42 50 38 52 32 C50 42 46 48 38 52 C46 51 55 48 60 42 C56 50 48 56 38 58 C46 57 58 55 64 48 C60 56 52 64 40 68 V62 H32 V50 Z" fill="#9CCC65" />
+  <!-- Right Cross Wing -->
+  <path d="M36 44 H68 C68 44 68 64 40 64 V44 Z" fill="#FFFFFF" opacity="0.9" />
+</svg>
